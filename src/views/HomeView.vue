@@ -2,7 +2,7 @@
   <div class="home">
       <div class="nav">
           <div class="pic">
-              <img src="http://localhost:8080/imgs/images/img_02.png" alt="">
+              <img src="../../public/imgs/images/img_02.png" alt="">
           </div>
       </div>
   </div>
